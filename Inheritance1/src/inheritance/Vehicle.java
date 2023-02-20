@@ -1,7 +1,7 @@
 package inheritance;
 
 public class Vehicle {
-	protected int speed;
+	int speed;
 	int wheels=10;
 	Vehicle()
 	{

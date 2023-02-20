@@ -10,7 +10,7 @@ public class Car extends Vehicle{
 	{
 		System.out.println("child class");
 	}}
-//Void Park()
+//void Park()
 //{
 //	System.out.println("car is parked");
-//}
+//}}
